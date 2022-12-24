@@ -1,12 +1,12 @@
 {
     "clientVersionCode": 100,
-    "gameFilesVersionCode": 100,
-    "URL_GAME_FILES" : "https://",
-    "URL_GAME_FILES_UPD" : "https://",
-    "URL_VK": "https://vk.com/izmlvcr",
-    "URL_DISCORD": "https://discord.gg/",
-    "URL_YOUTUBE": "https://t.me/",
-    "URL_FORUM": "https://f.ru-state.online/",
-    "URL_DONATE": "https://ru-state.online/donate",
-    "URL_CLIENT": "https://api.ru-state.online/test/client.apk"
+    "gameFilesVersionCode": 109,
+    "URL_GAME_FILES" : "https://hard.russia-mobile.ru/game.zip",
+    "URL_GAME_FILES_UPD" : "https://hard.russia-mobile.ru/upd.zip",
+    "URL_VK": "https://vk.com/hard.russia.mobile",
+    "URL_DISCORD": "https://discord.gg/JJzmCabmMh",
+    "URL_YOUTUBE": "https://russia-mobile.ru/",
+    "URL_FORUM": "https://hard.russia-mobile.ru/index.php",
+    "URL_DONATE": "https://russia-mobile.ru/",
+    "URL_CLIENT": "https://hard.russia-mobile.ru/client.apk"
 }
